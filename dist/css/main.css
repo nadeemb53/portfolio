@@ -166,7 +166,10 @@ main {
   .about-info .bio-image {
     grid-area: bioimage;
     margin: auto;
-    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+    background-size: cover;
+    border-radius:50% 50% 50% 50%;
     border: #eece1a 3px solid; }
   .about-info .bio {
     grid-area: bio;

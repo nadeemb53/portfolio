@@ -47,6 +47,8 @@
 
     .portrait {
       background: url('../img/portrait_small.jpeg');
+      background-size: cover;
+      border-radius:50% 50% 50% 50%;
       width: 150px;
       height: 150px;
     }
