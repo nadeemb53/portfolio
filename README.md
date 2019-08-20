@@ -1,2 +1,2 @@
 # portfolio
-My portfolio hosted at nadeembhati.me
+My portfolio hosted at http://nadeembhati.me/portfolio
